@@ -1,5 +1,5 @@
 {
-  "name": "@dollarshaveclub/cloudworker",
+  "name": "@zentrick/cloudworker",
   "version": "0.1.2",
   "description": "node.js runner for Cloudflare Workers",
   "main": "index.js",
